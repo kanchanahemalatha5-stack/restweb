@@ -308,7 +308,9 @@ admin.html
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-15 160151.png>)
+
+
+![alt text](<Screenshot 2025-10-15 161305.png>)
 ![alt text](<Screenshot 2025-10-15 160217.png>)
 ![alt text](<Screenshot 2025-10-15 160240.png>)
 ![alt text](<Screenshot 2025-10-15 160304.png>)
