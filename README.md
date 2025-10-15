@@ -308,7 +308,8 @@ admin.html
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-15 161828.png>)
+<img width="1920" height="1080" alt="Screenshot 2025-10-15 161828" src="https://github.com/user-attachments/assets/ff89bc7f-527b-40ea-9b7f-8949d47c5747" />
+
 ![alt text](<Screenshot 2025-10-15 161850.png>)
 ![alt text](<Screenshot 2025-10-15 161909.png>)
 ![alt text](<Screenshot 2025-10-15 161927.png>)
