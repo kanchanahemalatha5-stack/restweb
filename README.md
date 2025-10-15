@@ -309,10 +309,12 @@ admin.html
 
 ## OUTPUT:
 <img width="1920" height="1080" alt="Screenshot 2025-10-15 161828" src="https://github.com/user-attachments/assets/ff89bc7f-527b-40ea-9b7f-8949d47c5747" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-15 161850" src="https://github.com/user-attachments/assets/ee172986-fbb4-426f-95f4-d964c7471f32" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-15 161909" src="https://github.com/user-attachments/assets/924bc2c7-7da5-4ae8-a8de-331994bb8bc8" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-15 161927" src="https://github.com/user-attachments/assets/114478f9-1877-4943-bbd1-32f3e52b8a76" />
 
-![alt text](<Screenshot 2025-10-15 161850.png>)
-![alt text](<Screenshot 2025-10-15 161909.png>)
-![alt text](<Screenshot 2025-10-15 161927.png>)
+
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
