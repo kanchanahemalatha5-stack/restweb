@@ -308,12 +308,10 @@ admin.html
 ```
 
 ## OUTPUT:
-
-
-![alt text](<Screenshot 2025-10-15 161305.png>)
-![alt text](<Screenshot 2025-10-15 160217.png>)
-![alt text](<Screenshot 2025-10-15 160240.png>)
-![alt text](<Screenshot 2025-10-15 160304.png>)
+![alt text](<Screenshot 2025-10-15 161828.png>)
+![alt text](<Screenshot 2025-10-15 161850.png>)
+![alt text](<Screenshot 2025-10-15 161909.png>)
+![alt text](<Screenshot 2025-10-15 161927.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
