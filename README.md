@@ -308,10 +308,11 @@ admin.html
 ```
 
 ## OUTPUT:
-<img width="1920" height="1080" alt="Screenshot 2025-10-15 161828" src="https://github.com/user-attachments/assets/ff89bc7f-527b-40ea-9b7f-8949d47c5747" />
-<img width="1920" height="1080" alt="Screenshot 2025-10-15 161850" src="https://github.com/user-attachments/assets/ee172986-fbb4-426f-95f4-d964c7471f32" />
-<img width="1920" height="1080" alt="Screenshot 2025-10-15 161909" src="https://github.com/user-attachments/assets/924bc2c7-7da5-4ae8-a8de-331994bb8bc8" />
-<img width="1920" height="1080" alt="Screenshot 2025-10-15 161927" src="https://github.com/user-attachments/assets/114478f9-1877-4943-bbd1-32f3e52b8a76" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-25 142011" src="https://github.com/user-attachments/assets/f51f8111-dbf0-4139-af94-e7c50b64abaf" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-25 142043" src="https://github.com/user-attachments/assets/457d9cba-add9-4ba7-988f-44c84805a013" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-25 142111" src="https://github.com/user-attachments/assets/7b606deb-88ee-4a84-b032-35c1f9e08897" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-25 142144" src="https://github.com/user-attachments/assets/a5bfb8ad-4fe4-4c18-afb3-c55a21843430" />
 
 
 
